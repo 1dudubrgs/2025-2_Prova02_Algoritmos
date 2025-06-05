@@ -9,7 +9,7 @@
 
 #define tam 999
 
-//EDUARDO BORGES PEREIRA - AN√ÅLISE E DESENVOLVIMENTO DE SISTEMAS - 185.824.286-00
+//EDUARDO BORGES PEREIRA - AN¡LISE E DESENVOLVIMENTO DE SISTEMAS - 185.824.286-00
 //===============================================================================
 //===================================FUNCOES=====================================
 //===============================================================================
@@ -100,7 +100,7 @@ int main()
 {
     //CRIAR VARIAVEIS
 
-    //OBSERVA√á√ïES INICIAIS
+    //OBSERVA«’ES INICIAIS
     int dia_transacao[tam + 1];
     float val_transacao[tam + 1], saldo_diario[tam + 1];
     char nom_transacao[tam + 1][100], status_transacao[tam + 1];
